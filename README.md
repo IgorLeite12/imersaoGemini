@@ -1,4 +1,4 @@
-## **##  Mensagens de Esperança: Imersão dev Alura com Google Gemini **
+ **## Mensagens de Esperança: Imersão dev Alura com Google Gemini **##
 
 **O que é esse projeto?**
 
@@ -35,13 +35,4 @@ Este é um projeto pessoal e não possui fins comerciais. As mensagens contidas 
 
 **#AluraImersão #GoogleGemini #DesenvolvimentoWeb #MensagensDeEsperança**
 
-**Link para o repositório:** (Insira aqui o link do seu repositório no GitHub)
-
-**Observações:**
-
-* **Imagem:** Adicione uma imagem chamativa para ilustrar o projeto no README.md.
-* **Demonstração:** Se possível, crie um vídeo curto demonstrando o funcionamento da aplicação e adicione o link no README.md.
-* **Detalhes técnicos:** Para um README mais completo, você pode adicionar detalhes sobre a estrutura do projeto, como a organização das pastas, as bibliotecas utilizadas (se houver), e os desafios enfrentados durante o desenvolvimento.
-* **Personalize:** Adapte este README para refletir a sua personalidade e o estilo do seu projeto.
-
-Com este README bem elaborado, você estará pronto para compartilhar seu projeto com a comunidade e receber feedbacks! 
+**Link para o repositório:** github.com/IgorLeite12/imersaoGemini 
