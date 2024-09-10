@@ -1,4 +1,4 @@
- ##**##  Mensagens de Esperança: Imersão dev Alura com Google Gemini **
+**## Mensagens de Esperança: Imersão dev Alura com Google Gemini **
 
 **O que é esse projeto?**
 
